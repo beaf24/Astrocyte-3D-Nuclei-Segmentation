@@ -16,10 +16,11 @@ This repository contains Python notebooks for data analysis and processing used 
 
 ## Repository Structure
 ```
-├── notebooks/                # Jupyter notebooks for data processing and analysis
-├── models/                   # Trained deep learning models (nnU-Net)
-├── gui/                      # Source code for the graphical user interface
-└── data/                     # Sample datasets and annotations
+├── image processing/               # Jupyter notebooks for data processing and analysis
+├── models/                         # Trained deep learning models (nnU-Net)
+├── experiments analysis/           # Notebooks for experimental data analysis
+├── segmentation analysis/          # Notebooks for segmentation model performance analysis
+└── support documents/              # Dissertation, Extended Abstract and Defense Presentation
 ```
 
 ## Citation
